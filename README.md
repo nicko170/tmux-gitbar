@@ -76,7 +76,7 @@ Default installation directory is `$HOME/.tmux-gitbar`
 **Get the code**
 
 ```bash
-git clone https://github.com/aurelien-rainone/tmux-gitbar.git ~/.tmux-gitbar
+git clone https://github.com/nicko170/tmux-gitbar.git ~/.tmux-gitbar
 ```
 
 **Add this line to your `tmux.conf`**
