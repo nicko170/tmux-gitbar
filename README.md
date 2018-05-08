@@ -93,7 +93,7 @@ Let's say you prefer to install **tmux-gitbar** in
 **Get the code**
 
 ```bash
-git clone https://github.com/aurelien-rainone/tmux-gitbar.git /path/to/tmux-gitbar
+git clone https://github.com/nicko170/tmux-gitbar.git /path/to/tmux-gitbar
 ```
 
 **Add these 2 lines to your `tmux.conf`**
